@@ -16,3 +16,5 @@ const filterByAge = (list,startVal,endVal) => {
 
 const filteredByAge = filterByAge(objectList,10,30);
 console.log(filteredByAge);
+
+//check smthn
